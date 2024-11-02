@@ -5,5 +5,5 @@ def fibonacci(n):
     return fib_sequence
 
 # Imprimir los primeros 10 números de la secuencia de Fibonacci
-n = 10
+n = 9
 print(f"Los primeros {n} números de la secuencia de Fibonacci son: {fibonacci(n)}")
